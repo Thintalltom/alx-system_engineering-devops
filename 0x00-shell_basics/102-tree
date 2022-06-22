@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdirwelcomecdwelcomemkdirtocdtomkdirschoolcdschool
+mkdir -p welcome/to/school
